@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fragments</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_actividad1">Actividad1</string>
+    <string name="title_activity_intents__act_01">Intents_Act_01</string>
+    <string name="title_activity_intents__act_02">Intents_Act_02</string>
+    <string name="title_activity_intents__act_02_b">Intents_Act_02_b</string>
+    <string name="title_activity_intents__act_03">Intents_Act_03</string>
+    <string name="title_activity_intents__act_03_b">Intents_Act_03_b</string>
+    <string name="title_activity_ciclo_de_vida">CicloDeVida</string>
+    <string name="title_activity_pulsame">Pulsame</string>
+    <string name="title_activity_implicit_intents">ImplicitIntents</string>
+    <string name="title_activity_broadcast_reciver">BroadcastReciver</string>
+
+</resources>
